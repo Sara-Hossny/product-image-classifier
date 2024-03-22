@@ -18,39 +18,6 @@ The dataset from the slash application.it comprises images categorized into diff
   - Nutrition: 29
   - Stationary: 102
 
-## Dataset Structure
-The dataset is structured as follows:
-product-images
-│
-└── slash-data
-    ├── Accessories
-    │   ├── Accessories1.jpg
-    │   └── ...
-    │
-    ├── Beauty
-    │   ├── Beauty1.jpg
-    │   └── ...
-    │
-    ├── Fashion
-    │   ├── Fashion1.jpg
-    │   └── ...
-    │
-    ├── Home
-    │   ├── Home1.jpg
-    │   └── ...
-    │
-    ├── Games
-    │   ├── Games1.jpg
-    │   └── ...
-    │
-    ├── Stationary
-    │   ├── Stationary1.jpg
-    │   └── ...
-    │
-    └── Nutrition
-        ├── Nutrition1.jpg
-        └── ...
-
 
 ## Preprocessing Images
 The following preprocessing steps are applied to the images:
