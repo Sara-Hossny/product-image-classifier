@@ -58,9 +58,6 @@ The following preprocessing steps are applied to the images:
 - **Balancing:** Oversampling is implemented to address class imbalance, ensuring all classes have equal representation.
 - **Dataset Splitting:** The balanced dataset is divided into training, validation, and testing sets for comprehensive training and evaluation.
 
-## Modified EfficientNet Model Architecture
-The `ModifiedEfficientNet` class is a neural network model tailored for multi-class classification tasks. It is based on the EfficientNet architecture with custom modifications.
-
 ### ResNetClass Model Components
 The `ResNetClasses` model components include:
 - **ResNet Backbone:** Consists of convolutional layers, pooling layers, and residual blocks of the ResNet-18 architecture for hierarchical feature extraction.
