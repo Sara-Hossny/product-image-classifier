@@ -3,7 +3,7 @@
 This repository contains code for a product image classifier, designed to classify images into different product categories. The classifier is built using convolutional neural networks (CNNs) and utilizes state-of-the-art architectures for efficient and accurate classification.
 
 ## Video Link
-[Click here](https://drive.google.com/drive/folders/1lAIpGDvmR_vQHA-0keOgKxM1DHE64wtA?usp=sharing) to access the video demonstration of the product image classifier.
+[Click here](https://drive.google.com/drive/folders/1FwWs762yBDSiOpYcYrLJSlPXXQXIQjyR?usp=sharing) to access the video demonstration of the product image classifier.
 
 ## Dataset Overview
 The dataset from the slash application.it comprises images categorized into different product classes, including Accessories, Beauty, Fashion, Home, Games, Stationary, and Nutrition. However, the dataset suffers from imbalanced class distribution, with Fashion dominating and other classes having significantly fewer samples.
